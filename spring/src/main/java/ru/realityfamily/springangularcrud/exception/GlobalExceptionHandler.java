@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2jpacrudexample.exception;
+package ru.realityfamily.springangularcrud.exception;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2jpacrudexample.model;
+package ru.realityfamily.springangularcrud.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
